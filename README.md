@@ -3,6 +3,10 @@
 A collection of setting & snippets that have come in handy.
 
 ## Sublime Text 3
+Install **Package Manager**: https://packagecontrol.io/installation
+
+- JSLint
+
 
 #### Preferences > Settings - User
 ```json
